@@ -1,0 +1,10 @@
+--PART 1 HTTP DURUM KODLARI 
+
+--npm init ile başlıyoruz terminalden
+entry point'i app.js seçeceğiz
+
+
+--npm i express yapıyoruz ardından
+
+
+--npm i -D nodemon indirilecek     :    bu  bunun kısa hali npm i --save-dev nodemon
