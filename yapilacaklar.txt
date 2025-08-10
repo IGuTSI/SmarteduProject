@@ -8,3 +8,16 @@ entry point'i app.js seçeceğiz
 
 
 --npm i -D nodemon indirilecek     :    bu  bunun kısa hali npm i --save-dev nodemon
+
+
+--app.js içerisine status kullanarak 200-299 arası başarılı sonuclar için status kodları o yüzden yazdık 
+
+ res.status(200).send('INDEX SAYFASI');
+
+ --github'dan repostories oluşturucaz ve 
+
+ -- daha sonra gitignore a girip node yazıp dosya yaratıyoruz ve buraya klasöre .gitignore açıp yapıştırıyoruz.
+
+ -- daha sonra git.hub kodlarını yazıyoruz sırasıyla zaten oluşturduğumuz repostories'dekileri kopyalayacaz ama sadece git add README yerine git add . yapacağız
+
+ --npm i ejs indirecez
